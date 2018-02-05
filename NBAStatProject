@@ -1,0 +1,597 @@
+<!DOCTYPE html/>
+
+<html>
+  <head>
+    <title>Week 9 Daily Leaders</title>
+  </head>
+
+<body>
+
+<h1>NBA Daily Leaders</h1> 
+<h2>Visit the <a href="https://stats.nba.com/" target="_blank">NBA Stat Page</a> for all the latest updates on your favorite players and teams!</h2>
+<p>Jump to: <a href="#Players">Player Stats</a> | <a href="#Teams">Team Stats</a></p>
+
+<div id="Players">
+  <h1>Player Stats</h1>
+  <table>
+    <tr>
+      <td>
+        <h2>Points</h2>
+    
+        <a href="http://stats.nba.com/player/201142/" target="_blank"><img src="https://cdn.nba.net/nba-drupal-prod/styles/tile/s3/2017-05/GettyImages-686993822.jpg?itok=QPn7dSTd" height="200" width="320" id="Kevin Durant" /></a>
+        <table border="1">
+          <tr>
+            <td><strong>Player</strong></td>
+            <td><strong>Points</strong></td>
+          </tr>
+          <tr>
+            <td>Kevin Durant (GSW)</td>
+            <td>36</td>
+          </tr>
+          <tr>
+            <td>Karl-Anthony Towns (MIN)</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>Kevin Love (CLE)</td>
+            <td>28</td>
+          </tr>
+          <tr>
+            <td>Courtney Lee (NYK)</td>
+            <td>27</td>
+          </tr>
+          <tr>
+            <td>Spencer Dinwiddie (BKN)</td>
+            <td>26</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <h2>Rebounds</h2>
+   
+        <a href="http://stats.nba.com/player/203083/" target="_blank"><img src="http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F1018%2Fnba_u_drummond_mb_1296x729.jpg" height="200" width="320" id="Andre Drummond" /></a>
+        <table border="1">
+          <tr>
+            <td><strong>Player</strong></td>
+            <td><strong>Rebounds</strong></td>
+          </tr>
+          <tr>
+            <td>Andre Drummond (DET)</td>
+            <td>19</td>
+          </tr>
+          <tr>
+            <td>Karl-Anthony Towns (MIN)</td>
+            <td>14</td>
+          </tr>
+          <tr>
+            <td>LeBron James (CLE)</td>
+            <td>12</td>
+          </tr>
+          <tr>
+            <td>Larry Nance Jr. (LAL)</td>
+            <td>12</td>
+          </tr>
+          <tr>
+            <td>Omri Casspi (GSW)</td>
+            <td>11</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <h2>Assists</h2>
+    
+        <a href="http://stats.nba.com/player/2544/" target="_blank"><img src="https://espnfivethirtyeight.files.wordpress.com/2017/05/lebron11.jpg?w=575&quality=90&strip=info" height="200" width="320" id="LeBron James Assists" /></a>
+		    <table border="1">
+		      <tr>
+		        <td><strong>Player</strong></td>
+		        <td><strong>Assists</strong></td>
+		      </tr>
+		      <tr>
+		        <td>LeBron James (CLE)</td>
+		        <td>12</td>
+		      </tr>
+		      <tr>
+		        <td>Lonzo Ball (LAL)</td>
+		        <td>11</td>
+		      </tr>
+		      <tr>
+		        <td>Andre Iguodala (GSW)</td>
+		        <td>10</td>
+		      </tr>
+		      <tr>
+		        <td>Dennis Schroder (ATL)</td>
+		        <td>10</td>
+		      </tr>
+		      <tr>
+		        <td>Jimmy Butler (MIN)</td>
+		        <td>11</td>
+		      </tr>
+		    </table>
+		  </td>
+		</tr>
+		<tr>
+		  <td>
+		    <h2>Blocks</h2>
+
+		    <a href="http://stats.nba.com/player/1626157/" target="_blank"><img src="http://upl.stack.com/wp-content/uploads/2017/01/10131636/Karl-Anthony-Towns-STACK.jpg" height="200" width="320" id="Karl-Anthony Towns" /></a>
+		    <table border="1">
+			    <tr>
+			      <td><strong>Player</strong></td>
+			      <td><strong>Blocks</strong></td>
+			    </tr>
+			    <tr>
+			      <td>Karl-Anthony Towns (MIN)</td>
+			      <td>5</td>
+			    </tr>
+			    <tr>
+			      <td>Kent Bazemore (ATL)</td>
+			      <td>3</td>
+			    </tr>
+			    <tr>
+			      <td>Ron Baker (NYK)</td>
+			      <td>2</td>
+			    </tr>
+			    <tr>
+			      <td>Jimmy Butler (MIN)</td>
+			      <td>2</td>
+			    </tr>
+			    <tr>
+			      <td>Omri Casspi (GSW)</td>
+			      <td>2</td>
+			    </tr>
+		    </table>
+			</td>   
+			<td> 	
+			  <h2>Steals</h2>
+
+		  	<a href="http://stats.nba.com/player/203476/" target="blank"><img src="https://www.minnpost.com/sites/default/files/imagecache/article_detail/images/articles/GorguiDieng640_0.jpg" height="200" width="320" id="Gorgui Dieng" /></a>
+		  	<table border="1">
+		      <tr>
+		        <td><strong>Player</strong></td>
+		        <td><strong>Steals</strong></td>
+		      </tr>
+		      <tr>
+		        <td>Gorgui Dieng (MIN)</td>
+		        <td>4</td>
+		      </tr>
+		      <tr>
+		        <td>Devin Harris (DAL)</td>
+		        <td>4</td>
+		      </tr>
+		      <tr>
+		        <td>Rondae Hollis-Jefferson (BKN)</td>
+		        <td>4</td>
+		      </tr>
+		      <tr>
+		        <td>Caris LeVert (BKN)</td>
+		        <td>3</td>
+		      </tr>
+		      <tr>
+		        <td>David West (GSW)</td>
+		        <td>3</td>
+		      </tr>
+		    </table>
+			</td>
+			<td>
+  			<h2>Turnovers</h2>
+
+  			<a href="http://stats.nba.com/player/1628366/" target="_blank"><img src="https://imagesvc.timeincapp.com/v3/fan/image?url=https://lakeshowlife.com/wp-content/uploads/getty-images/2017/10/867279356-toronto-raptors-v-los-angeles-lakers.jpg.jpg&" height="200" width="320" id="Lonzo Ball" /></a>
+		  	<table border="1">
+		      <tr>
+		        <td><strong>Player</strong></td>
+		        <td><strong>Turnovers</strong></td>
+		      </tr>
+		      <tr>
+		        <td>Lonzo Ball (LAL)</td>
+		        <td>6</td>
+		      </tr>
+		      <tr>
+		        <td>Kevin Durant (GSW)</td>
+		        <td>5</td>
+		      </tr>
+		      <tr>
+		        <td>LeBron James (CLE)</td>
+		        <td>5</td>
+		      </tr>
+		      <tr>
+		        <td>Devin Harris (DAL)</td>
+		        <td>4</td>
+		      </tr>
+		      <tr>
+		        <td>Rondae Hollis-Jefferson (BKN)</td>
+		        <td>4</td>
+		      </tr>
+		    </table>
+		  </td>
+		</tr>
+		<tr>  
+			<td>
+				<h2>Three Pointers Made</h2>
+
+				<a href="http://stats.nba.com/player/101181/" target="_blank"><img src="https://cdn.vox-cdn.com/thumbor/Wc2UFhvN3pZnlS36DyIoqAuExlI=/0x0:5249x3499/1200x800/filters:focal(2247x405:3085x1243)/cdn.vox-cdn.com/uploads/chorus_image/image/55537669/670591210.0.jpg" height="200" width="320" id="Jose Calderon" /></a>
+		  	<table border="1">
+		      <tr>
+		        <td><strong>Player</strong></td>
+		        <td><strong>Three Pointers Made</strong></td>
+		      </tr>
+		      <tr>
+		        <td>Jose Calderon (CLE)</td>
+		        <td>5</td>
+		      </tr>
+		      <tr>
+		        <td>Langston Galloway (DET)</td>
+		        <td>5</td>
+		      </tr>
+		      <tr>
+		        <td>Klay Thompson (GSW)</td>
+		        <td>5</td>
+		      </tr>
+		      <tr>
+		        <td>Spencer Dinwiddie (BKN)</td>
+		        <td>4</td>
+		      </tr>
+		      <tr>
+		        <td>Kevin Durant (GSW)</td>
+		        <td>4</td>
+		      </tr>
+		    </table>
+		  </td>
+		  <td>
+  			<h2>Free Throws Made</h2>
+
+  			<a href="http://stats.nba.com/player/2544/" target="_blank"><img src="https://cdn.vox-cdn.com/thumbor/K6s4PS-reHkuLS2a7LPwGS3W4XI=/0x0:3093x2320/1200x800/filters:focal(1044x411:1538x905)/cdn.vox-cdn.com/uploads/chorus_image/image/54863549/usa_today_10043799.0.jpg" height="200" width="320" id="Lebron James Free Throws" /></a>
+		  	<table border="1">
+		      <tr>
+		        <td><strong>Player</strong></td>
+		        <td><strong>Free Throws Made</strong></td>
+		      </tr>
+		      <tr>
+		        <td>LeBron James (CLE)</td>
+		        <td>8</td>
+		      </tr>
+		      <tr>
+		        <td>Jimmy Butler (MIN)</td>
+		        <td>7</td>
+		      </tr>
+		      <tr>
+		        <td>Courtney Lee (NYK)</td>
+		        <td>6</td>
+		      </tr>
+		      <tr>
+		        <td>Kevin Love (CLE)</td>
+		        <td>6</td>
+		      </tr>
+		      <tr>
+		        <td>Karl-Anthony Towns (MIN)</td>
+		        <td>6</td>
+		      </tr>
+		    </table>
+		  </td>
+			<td>
+  			<h2>Fantasy Points</h2>
+
+  			<a href=http://stats.nba.com/player/1626157/" target="_blank"><img src="http://images.performgroup.com/di/library/sporting_news/3f/3b/karl-anthony-towns-getty-ftr-112015_1i033msxfpw6w16c5vdxwbiw3u.jpg?t=633764041" height="200" width="320" id="Karl-Anthony Towns Fantasy Points" /></a>
+		  	<table border="1">
+		      <tr>
+		        <td><strong>Player</strong></td>
+		        <td><strong>Fantasy Points</strong></td>
+		      </tr>
+		      <tr>
+		        <td>Karl-Anthony Towns (MIN)</td>
+		        <td>72.3</td>
+		      </tr>
+		      <tr>
+		        <td>LeBron James (CLE)</td>
+		        <td>64.4</td>
+		      </tr>
+		      <tr>
+		        <td>Kevin Durant (GSW)</td>
+		        <td>60.7</td>
+		      </tr>
+		      <tr>
+		        <td>Jimmy Butler (MIN)</td>
+		        <td>54.9</td>
+		      </tr>
+		      <tr>
+		        <td>Andre Drummond (DET)</td>
+		        <td>52.8</td>
+		      </tr>
+		    </table>
+		  </td>
+		</tr>
+	</table>
+</div>
+<br />
+<br />
+<div id="Teams">
+  <h1>Team Stats</1>
+  <table>
+  	<tr>
+  		<td>
+  			<h2>Points</h2>
+
+  			<a href="http://stats.nba.com/team/1610612739/" target="_blank"><img src="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/cavaliers/images/170531-global-logo.png" height="239" width="300" id="Cleveland Cavaliers Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Points</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>121</td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>119</td>
+				  </tr>
+				  <tr>
+				    <td>Golden State Warriors</td>
+				    <td>112</td>
+				  </tr>
+				  <tr>
+				    <td>Los Angeles Lakers</td>
+				    <td>112</td>
+				  </tr>
+				  <tr>
+				    <td>New York Knicks</td>
+				    <td>111</td>
+				  </tr>
+				</table>
+			</td>
+			<td>
+				<h2>Rebounds</h2>
+
+				<a href="http://stats.nba.com/team/1610612747/" target="_blank"><img src="https://i.redd.it/opz4v3uuqlvz.jpg" height="239" width="300" id="Los Angeles Lakers Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Rebounds</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Los Angeles Lakers</td>
+				    <td>49</td>
+				  </tr>
+				  <tr>
+				    <td>Detroit Pistons</td>
+				    <td>46</td>
+				  </tr>
+				  <tr>
+				    <td>Brooklyn Nets</td>
+				    <td>43</td>
+				  </tr>
+				  <tr>
+				    <td>Sacramento Kings</td>
+				    <td>42</td>
+				  </tr>
+				  <tr>
+				    <td>Golden State Warriors</td>
+				    <td>41</td>
+				  </tr>
+				</table>
+			</td>
+			<td>
+				<h2>Assists</h2>
+
+				<a href="http://stats.nba.com/team/1610612744/" target="_blank"><img src="https://usatftw.files.wordpress.com/2016/05/logo-golden-state-warriors.png?w=1000&h=600&crop=1" height="239" width="350" id="Golden State Warriors Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Assists</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Golden State Warriors</td>
+				    <td>35</td>
+				  </tr>
+				  <tr>
+				    <td>Los Angeles Lakers</td>
+				    <td>33</td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>32</td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>29</td>
+				  </tr>
+				  <tr>
+				    <td>Atlanta Hawks</td>
+				    <td>28</td>
+				  </tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h2>Blocks</h2>
+
+				<a href="http://stats.nba.com/team/1610612750/" target="_blank"><img src="https://cdn.vox-cdn.com/thumbor/8zI5Be31MgX-MvpZVvKsJ8ERY-c=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8322393/Minnesota_Timberwolves.svg.png" height="239" width="300" id="Minnesota Timberwolves Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Blocks</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>9</td>
+				  </tr>
+				  <tr>
+				    <td>Atlanta Hawks</td>
+				    <td>6</td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>5</td>
+				  </tr>
+				  <tr>
+				    <td>Brooklyn Nets</td>
+				    <td>4</td>
+				  </tr>
+				  <tr>
+				    <td>Golden State Warriors</td>
+				    <td>4</td>
+				  </tr>
+				</table>
+			</td>
+			<td>
+				<h2>Steals</h2>
+
+				<a href="http://stats.nba.com/team/1610612750/" target="_blank"><img src="https://cdn.vox-cdn.com/thumbor/8zI5Be31MgX-MvpZVvKsJ8ERY-c=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8322393/Minnesota_Timberwolves.svg.png" height="239" width="300" id="Minnesota Timberwolves Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Steals</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>12</td>
+				  </tr>
+				  <tr>
+				    <td>New York Knicks</td>
+				    <td>11</td>
+				  </tr>
+				  <tr>
+				    <td>Brooklyn Nets</td>
+				    <td>10</td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>10</td>
+				  </tr>
+				  <tr>
+				    <td>Detroit Pistons</td>
+				    <td>10</td>
+				  </tr>
+				</table>
+			</td>
+			<td>
+				<h2>Field Goal Percentage</h2>
+
+				<a href="http://stats.nba.com/team/1610612744/" target="_blank"><img src="https://usatftw.files.wordpress.com/2016/05/logo-golden-state-warriors.png?w=1000&h=600&crop=1" height="239" width="350" id="Golden State Warriors Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Field Goal Percentage</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Golden State Warriors</td>
+				    <td>60.3</td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>56.1</td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>50.0</td>
+				  </tr>
+				  <tr>
+				    <td>Los Angeles Lakers</td>
+				    <td>49.5</td>
+				  </tr>
+				  <tr>
+				    <td>New York Knicks</td>
+				    <td>46.1</td>
+				  </tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			  <h2>Three Pointers Made</h2>
+
+			  <a href="http://stats.nba.com/team/1610612739/" target="_blank"><img src="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/cavaliers/images/170531-global-logo.png" height="239" width="300" id="Cleveland Cavaliers Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Three Pointers Made</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>15</td>
+				  </tr>
+				  <tr>
+				    <td>Sacramento Kings</td>
+				    <td>14</td>
+				  </tr>
+				  <tr>
+				    <td>Detroit Pistons</td>
+				    <td>13</td>
+				  </tr>
+				  <tr>
+				    <td>Brooklyn Nets</td>
+				    <td>12</td>
+				  </tr>
+				  <tr>
+				    <td>Atlanta Hawks</td>
+				    <td>11</td>
+				  </tr>
+				</table>
+			</td>
+			<td>
+				<h2>Three Point Percentage</h2>
+
+				<a href="http://stats.nba.com/team/1610612744/" target="_blank"><img src="https://usatftw.files.wordpress.com/2016/05/logo-golden-state-warriors.png?w=1000&h=600&crop=1" height="239" width="350" id="Golden State Warriors Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Three Point Percentage</strong></td>
+				  </tr>
+				  <tr>
+				    <td>Golden State Warriors</td>
+				    <td>50.0</td>
+				  </tr>
+				  <tr>
+				    <td>New York Knicks</td>
+				    <td>50.0</td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>47.6</td>
+				  </tr>
+				  <tr>
+				    <td>Detroit Pistons</td>
+				    <td>43.3</td>
+				  </tr>
+				  <tr>
+				    <td>Sacramento Kings</td>
+				    <td>42.4</td>
+				  </tr>
+				</table>
+			</td>
+			<td>
+				<h2>Free Throw Percentage</h2>
+
+				<a href="http://stats.nba.com/team/1610612752/" target="_blank"><img src="http://goodifitgoes.com/wp-content/uploads/2016/09/knicks-logo.jpg" height="239" width="300" id="New York Knicks Logo" /></a>
+				<table border="1">
+				  <tr>
+				    <td><strong>Team</strong></td>
+				    <td><strong>Free Throw Percentage</strong></td>
+				  </tr>
+				  <tr>
+				    <td>New York Knicks</td>
+				    <td>86.4</td>
+				  </tr>
+				  <tr>
+				    <td>Minnesota Timberwolves</td>
+				    <td>85.0</td>
+				  </tr>
+				  <tr>
+				    <td>Detroit Pistons</td>
+				    <td>83.3</td>
+				  </tr>
+				  <tr>
+				    <td>Sacramento Kings</td>
+				    <td>83.3</td>
+				  </tr>
+				  <tr>
+				    <td>Cleveland Cavaliers</td>
+				    <td>80.0</td>
+				  </tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+</body>
+</html>
